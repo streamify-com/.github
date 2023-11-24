@@ -1,7 +1,7 @@
 <br />
 <br />
 <p align="center">
-  <img alt="Streamify logo" src="https://assets.streamify.dev/logo/streamify_logo-red.svg" width="auto" height="80">
+  <img alt="Streamify logo" src="https://assets.streamify.dev/logo/streamify-logo-purpur.svg" width="auto" height="80">
 </p>
 <br />
 <h3 align="center">

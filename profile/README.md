@@ -14,7 +14,7 @@
   All-in-One • Drag-and-Drop • Collaborative-and-Interactive
 </p>
 <p align="center">
-    <a href="https://streamify.com/"><strong>Learn more »</strong></a>
+    <a href="https://streamify.com/" target="_blank"><strong>Learn more »</strong></a>
     <br />
     <br />
     <a href="https://discord.gg/Qct64q7z">Discord</a>

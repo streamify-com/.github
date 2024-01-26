@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <img alt="Streamify logo" src="https://assets.streamify.dev/logo/streamify-logo-purpur.svg" width="auto" height="80">
+  <img alt="Streamify logo" src="https://d2fplzddl6myl4.cloudfront.net/logo/streamify-logo-purpur.svg" width="auto" height="80">
 </p>
 <p align="center">
   No-code solution to build custom streaming platforms. Our mission: Make streaming simple.
